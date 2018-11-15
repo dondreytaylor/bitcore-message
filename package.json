@@ -23,7 +23,7 @@
     "url": "https://github.com/bitpay/bitcore-message.git"
   },
   "dependencies": {
-    "bitcore-lib": "dondreytaylor/bitcore-lib"
+    "bitcore-lib": "https://github.com/dondreytaylor/bitcore-lib#cf4a7f3097c7dc4492cf4d008cc14b85d0b36a37"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",
